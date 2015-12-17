@@ -4,4 +4,7 @@
 .idea/*
 
 out/*
+
 heritrix_out.log
+
+jobs/*
